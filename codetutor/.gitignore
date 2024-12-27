@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+codetutor-*/
+.vim/
+.git/
+.env
+None
+Dockerfile
+.dockerignore
+docker-compose.yml
+.hypothesis/
